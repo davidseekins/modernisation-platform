@@ -7,6 +7,7 @@
         {
           "sso_group_name": "modernisation-platform-engineers",
           "level": "sandbox"
+          "nuke": "rebuild"
         }
       ],
       "additional_reviewers": [
